@@ -1,0 +1,19 @@
+{
+  "name": "hrk",
+  "version": "1.0.0",
+  "description": "Heroku test with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admquick/hrk.git"
+  },
+  "author": "admquick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admquick/hrk/issues"
+  },
+  "homepage": "https://github.com/admquick/hrk#readme"
+}
